@@ -1,0 +1,33 @@
+name: HMC-RedPvP
+main: me.invis.hibe.RedstonePVP
+version: 3.5
+author: Rocoty
+
+commands:
+     RedBox:
+     pet:
+     settradesign:
+     feature:
+     features:
+     warps:
+     fix:
+     trash:
+     srequest:
+     baseteleport:
+     baseclaim:
+     daily:
+     sco:
+     mobspawn:
+     pay:
+     teams:
+     weekly:
+permissions:
+  redstonepvp.beacondrops.setbeacon:
+    description: Allows you to set the beacon used as drop party beacon
+    default: op
+  redstonepvp.goldtrade.setsign:
+    description: Allows you to set a sign as a trade sign
+    default: op
+  redstonepvp.feature:
+    description: Allows you to get info about features and enable/disable them
+    default: op
